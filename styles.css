@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.main-container{
+	width:300px;
+	margin:auto;
+	padding:30px;
+	
+	background-color:#f5f5f5;
+	/* box-shadow: h-offset v-offset blur spread color;  */
+	box-shadow: 0px 3px 5px 9px #f5f5f5;
+	text-align:center;
+}
+img{
+width:250px;
+}
+button{
+	background-color:#FF5733;
+	padding:15px 15px;
+	border-radius:5px;
+	border:none;
+	color:white;
+}
